@@ -14,6 +14,9 @@ func main() {
 	fmt.Printf("We have total of %v tickets and %v are still available.\n", conferenceTickets, remainingTickets)
 	fmt.Println("Get Your ticket to attend")
 
+	var booking = [50]string{"Nama","Nicole","John"}
+	var var booking = [50]string{"Nama","Nicole","John"}
+
 	var firstName string
 	var lastName string
 	var email string
